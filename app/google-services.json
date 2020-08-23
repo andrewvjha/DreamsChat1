@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224677086633",
+    "firebase_url": "https://whisper-40df6.firebaseio.com",
+    "project_id": "whisper-40df6",
+    "storage_bucket": "whisper-40df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224677086633:android:5d7a35a92bc885a5dbf0b8",
+        "android_client_info": {
+          "package_name": "com.wishper.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224677086633-2a9fudp4qt347kq3hr94eke0caguh3a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishper.chat",
+            "certificate_hash": "d5a892def5180bab951f1a4643a63145362c653f"
+          }
+        },
+        {
+          "client_id": "224677086633-233sv2glo4tb2b4585vpm5mkjubh6lfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ir0Y01M7aCIdao05eT0bx-NjAe7e2TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224677086633-233sv2glo4tb2b4585vpm5mkjubh6lfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
